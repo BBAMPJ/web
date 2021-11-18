@@ -1,0 +1,16 @@
+*{
+	margin-top: 80px;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+}
+body{
+	background: white;
+}
+.zenerone{
+
+	width: 700px;
+	height: 500px;
+	margin: auto;
+	background: pink;
+}
